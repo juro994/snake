@@ -1,0 +1,18 @@
+body {
+    background-color: #7b9f7f;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#scoreArea {
+    text-align: center;
+}
+
+#myCanvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: #99bd9d;
+    border: solid 1px #101810;
+}
